@@ -16,3 +16,4 @@ Eel
 Lobster
 Crab
 Hagfish
+Torsk
