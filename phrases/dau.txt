@@ -25,7 +25,7 @@ YES¬I FORGOT¬ANALOGUE EMOJIS
 I don't think before I say half of the things I do
 I dont know anymore
 mmmmmmmmmh it pains me
-there is a print statement somewhere¬```False¬False¬False¬False¬False```¬I don't know why¬I don't know why its printing False¬but its there.¬somewhere.¬oh there it is¬`print(FLAG_STATES["testung"])`
+there is a print statement somewhere¬```False¬False¬False¬False¬False```¬I don't know why¬I don't know why its printing False¬but its there.¬somewhere.¬oh there it is¬```print(FLAG_STATES["testung"])```
 :py: fast.¬or.. not that fast, but it feels fast¬this is slow
 thats a lot
 thats awful
