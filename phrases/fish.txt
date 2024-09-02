@@ -19,8 +19,10 @@ Hagfish
 Torsk
 Pescado
 Fisk
-Ryba(Рыба)
-Sakana(魚)
+Ryba
+Рыба
+Sakana
+魚
 Riba
 Kalastaa
 Poisson
