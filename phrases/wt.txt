@@ -1,0 +1,135 @@
+Attack the A point!
+Defend the A point!
+Attack the B point!
+Defend the B point!
+Attack the C point!
+Defend the C point!
+Attack the D point!
+Defend the D point!
+Attack Hostile base!
+Attack Enemy base!
+Destroy Hostile Troops!
+Attack Hostile Troops!
+Cover the base!
+Provide Aircover for our base!
+Defend the base!
+I agree!
+Affirmative!
+Roger that!
+No!
+I refuse!
+TornadoTeam (Mr T) (Jagdpanther G1) destroyed ACE (F4U-1C)
+boogie66254 (Do-17) shot down TheMightyHowitze (F3H-2)
+Never!
+Gramarcy!
+Thank you!
+Thank you very much!
+boogie66254 (Do-17) sunk TheMightyHowitze (Bravy)
+boogie66254 (Do-17) shot down TheMightyHowitze (A-4B)
+Thanks!
+On me!
+Follow me!
+TheMightyHowitze (V.G. 33C-1) shot down boogie66254 (Do 335 B)
+TornadoTeam (Mr T) (Pz.Kpfw. V Ausf. D) shot down TheMightyHowitze (Su-27)
+Guide on me!
+Move after me!
+Cover me!
+Need cover!
+boogie66254 (Do 335 B) shot down TheMightyHowitze (F-14A)
+Somebody, attack ACE(F-16)!
+Somebody, attack [STB3] Shabbles(Spitfire)!
+Getting down!
+Leading for landing!
+Returning to the base.
+Reloading!
+Awesome!
+Bravo!
+Well done!
+Excellent!
+You've got a hole in your right wing!
+Repairing! 00:01
+Repairing! 00:02
+Somebody, attack TheMightyHowitze(Mi-24)!
+Repairing! 00:03
+Repairing! 00:04
+[STB3] Shabbles (Daimler Mk II) shot down ACE (F-16C)
+[STB3] Shabbles (Daimler Mk II) shot down TheMightyHowitze (Su-27)
+[STB3] Shabbles (Spitfire Mk II) shot down TheMightyHowitze (B-17E)
+[STB3] Shabbles (Spitfire Mk II) shot down boogie66254 (He 111)
+boogie66254 (Do 335 B) shot down TheMightyHowitze (Tu-4)
+TornadoTeam (Mr T) (Bf 110 C-7) destroyed boogie66254 (M4)
+TornadoTeam (Mr T) (M24 Chaffee) shot down boogie66254 ((Do 335 B)
+TornadoTeam (Mr T) (15cm slG 33 B Sfl) destroyed TheMightyHowitze (T-72 TURMS)
+TornadoTeam (Mr T) (15cm slG 33 B Sfl) sunk TheMightyHowitze (IJN Haruna)
+boogie66254 (Do-17) shot down TheMightyHowitze (SBD-3)
+TornadoTeam (Mr T) (15cm slG 33 B Sfl) set afore TheMightyHowitze (Su-27)
+boogie66254 (Bf 109 E) has crashed.
+boogie66254 (Do-17) has crashed.
+TheMightyHowitze (F-4J) has crashed.
+Repairing! 00:05
+Repairing! 00:06
+Repairing! 00:07
+Attack boogie(Do 335)!
+Somebody, attack TornadoTeam (Mr T)(Cromwell II)!
+Somebody, attack TornadoTeam (Mr T)(B17B)!
+Attack TornadoTeam (Mr T)(SBD-3)!
+Eliminate ACE(A-4E Early)!
+Attack [STB3] Shabbles(Fighter)!
+Repairing! 00:31
+Repairing! 00:54
+Repairing! 01:06
+Eliminate TornadoTeam (Mr T)(Valentine I)!
+Repairing! 02:15
+Attention to the designated grid square![a2]
+Attention to the designated grid square![a6]
+Attention to the designated grid square![b4]
+Attention to the designated grid square![j8]
+Attack TheMightyHowitze(IJN Aoba)!
+Eliminate boogie(Light Tank)!
+Attention to the designated grid square![b2]
+Attention to the map! [b1]
+Attention to the map! [a5]
+Attention to the map! [c3]
+Attention to the map! [c5]
+Attention to the map! [d3]
+Attention to the map! [e4]
+Somebody, attack TheMightyHowitze(IJN Haruna)!
+Attack TheMightyHowitze(IJN Haruna)!
+Eliminate TheMightyHowitze(Battleship)!
+Eliminate boogie(Destroyer)!
+Attack [STB3] Shabbles(Lancaster)!
+Somebody, attack TornadoTeam (Mr T)(Tiger II)!
+Eliminate TornadoTeam (Mr T)(Bomber)!
+Attack TheMightyHowitze(A-10A)!
+Elimniate TornadoTeam (Mr T)(A6M)!
+Attack ACE(F-14A Early)!
+Elimniate TornadoTeam (Mr T)(KV-1 (L-11))!
+Attack [STB3] Shabbles(SPG)!
+Somebody, attack boogie(Attacker)!
+Somebody, attack ACE(F-15)!
+Somebody, attack [STB3] Shabbles(Light tank)!
+[STB3] Shabbles (Jaguar GR1) shot down TheMightyHowitze (F-14A)
+Eliminate TheMightyHowitze(IJN Shimakaze)!
+Attack TheMightyHowitze(JAS39A)!
+Somebody, attack [STB3] Shabbles(Fighter)!
+Eliminate TheMightyHowitze(Destroyer)!
+Attack [STB3] Shabbles(SPAA)!
+Somebody, attack TornadoTeam (Mr T)(SPAA)!
+Eliminate boogie(Ju 87)!
+Attack [STB3] Shabbles(Destroyer)!
+Somebody, attack [STB3] Shabbles(Bomber)!
+Attack TheMightyHowitze(Su-27)!
+Eliminate ACE(F-4S)!
+Attack [STB3] Shabbles(Jaguar GR1)!
+Eliminate TheMightyHowitze(Strv 103-0)!
+Elimniate [STB3] Shabbles(Hurricane)!
+Attack [STB3] Shabbles(Jaguar GR1)!
+Somebody, attack [STB3] Shabbles(Hurricane)!
+[STB3] Shabbles (Jaguar GR1) shot down ACE (F-16C)
+Elimniate TornadoTeam (Mr T)(I-15 WR)!
+Elimniate TornadoTeam (Mr T)(A6M)!
+Attack TornadoTeam (Mr T)(A6M)!
+Somebody, attack TornadoTeam (Mr T)(Heavy Tank)!
+TornadoTeam (Mr T) (M24 Chaffee) destroyed boogie66254 (M3 Lee)
+TornadoTeam (Mr T) (Sd.Kfz.234/2) show down [STB3] Shabbles (Lancaster)
+boogie66254 (Bf 109E) shot down TheMightyHowitze (A6M2)
