@@ -9,10 +9,10 @@ no
 that's stupid
 moron
 fool
-Half life is literally the best game ever`Like it's not even a contest, the lore, the gameplay, its amazing.`HL1, the expansions, HL2, the episodes, Alyx, even black mesa`Its great please try, I beg
-if (dau == online) {`    DThreeOnline = True;`} else {`    DThreeOnline = False;`}
-The 3 S's of Dau;`- Source`- Shaders`- Stress
-Welcome.`Welcome to City 17.`You have chosen, or been chosen, to relocate to one of our finest remaining urban centres.`I thought so much of City 17 that I elected to establish my Administration here, in the Citadel so thoughtfully provided by Our Benefactors.`I have been proud to call City 17 my home.`And so, whether you are here to stay, or passing through on your way to parts unknown, welcome to City 17.`*It's safer here.*
+Half life is literally the best game ever¬Like it's not even a contest, the lore, the gameplay, its amazing.¬HL1, the expansions, HL2, the episodes, Alyx, even black mesa¬Its great please try, I beg
+if (dau == online) {¬    DThreeOnline = True;¬} else {¬    DThreeOnline = False;¬}
+The 3 S's of Dau;¬- Source¬- Shaders¬- Stress
+Welcome.¬Welcome to City 17.¬You have chosen, or been chosen, to relocate to one of our finest remaining urban centres.¬I thought so much of City 17 that I elected to establish my Administration here, in the Citadel so thoughtfully provided by Our Benefactors.¬I have been proud to call City 17 my home.¬And so, whether you are here to stay, or passing through on your way to parts unknown, welcome to City 17.¬*It's safer here.*
 I reckon its a 50-50 between acceptance and death if I was truthful with them
 working, listerning to a vid and chatting
 this intrigues me
@@ -21,6 +21,18 @@ I live beside the sea lol
 digusting mental state is the best kind of disgusting
 D's order is cooking
 this sure as hell beats doing work
-YES`I FORGOT`ANALOGUE EMOJIS
+YES¬I FORGOT¬ANALOGUE EMOJIS
 I don't think before I say half of the things I do
 I dont know anymore
+mmmmmmmmmh it pains me
+there is a print statement somewhere¬```False¬False¬False¬False¬False```¬I don't know why¬I don't know why its printing False¬but its there.¬somewhere.¬oh there it is¬`print(FLAG_STATES["testung"])`
+:py: fast.¬or.. not that fast, but it feels fast¬this is slow
+thats a lot
+thats awful
+found test2¬found these lines¬I dont like these¬```verticies = [(1, -1, -1),(1, 1, -1),(-1, 1, -1),(-1, -1, -1),(1, -1, 1), (1, 1, 1),(-1, -1, 1), (-1, 1, 1)]¬edges = [(0,1),(0,3),(0,4),(2,1),(2,3),(2,7),(6,3),(6,4),(6,7),(5,1),(5,4),(5,7)]¬faces = [(0, 1, 2, 3),(3, 2, 7, 6),(6, 7, 5, 4),(4, 5, 1, 0),(1, 5, 7, 2),(4, 0, 3, 6)]```¬why would that ever be nice formatting, dau¬thats awful
+ohhhhnoooo
+forgot my laptop password, just guessed it¬what a hacker
+close enough for me!
+oh my god this file keeps reappearing??
+oh, its close alright.
+oh, thats exactly what I named it¬lowercase and all¬huh.

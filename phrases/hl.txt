@@ -32,7 +32,7 @@ I don't know about you, but I'm ready to join Civil Protection just to get a dec
 If I talk to you out here, we'll both be in trouble.
 Stay back, you'll attract unwanted attention.
 Don't sit near me. It'll look suspicious.
-They're definitely coming in here!`It was just a matter of time!
+They're definitely coming in here!¬It was just a matter of time!
 CPs!
 Civil Protection!
 Run for your life!
@@ -46,7 +46,7 @@ Be careful now. We really can't afford to get noticed. Civil Protection catches 
 Civil Protection is on to us. We're tearing up the railroad, covering our tracks. Looks like you're gonna be the last one through.
 They're flooding areas up ahead with Manhacks. You'd better get going before they sweep through here.
 Oh shit! Too late!
-Hey down there! Supplies!`Look out below!
+Hey down there! Supplies!¬Look out below!
 Hey, you're Freeman, aren't you?
 Well, I wouldn't believe it if I couldn't see it with my own eyes. Dr. Gordon Freeman himself.
 You're just in time, Doc. We've got to move out before the Combine picks us up. We're just getting ready to pull out.
@@ -70,7 +70,7 @@ He came a long way from Black Mesa.
 Dr. Freeman? Can you hear me? Do not go into the light!
 I've got my little corner and I'm sticking to it.
 When this is all over I'm...aw, who am I kidding?
-I could eat a horse, hooves and all.`-# Hay Life; Opposing Horse
+I could eat a horse, hooves and all.¬-# Hay Life; Opposing Horse
 They're never gonna make a stalker out of me.
 This is bullshit!
 I'm glad there's no kids around to see this.
