@@ -1,5 +1,5 @@
 Nästa station: Göteborg C. Detta är tågets slutstation.
-Nästa station: Liseberg
+Nästa station: Liseberg. Se upp för avståndet mellan tåg och platform.
 Nästa station: Mölndal
 Nästa station: Kållered
 Nästa station: Lindome
