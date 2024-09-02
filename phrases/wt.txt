@@ -59,6 +59,7 @@ Repairing! 00:04
 boogie66254 (Do 335 B) shot down TheMightyHowitze (Tu-4)
 TornadoTeam (Mr T) (Bf 110 C-7) destroyed boogie66254 (M4)
 TornadoTeam (Mr T) (M24 Chaffee) shot down boogie66254 ((Do 335 B)
+TornadoTeam (Mr T) (Do-17) has crashed.
 TornadoTeam (Mr T) (15cm slG 33 B Sfl) destroyed TheMightyHowitze (T-72 TURMS)
 TornadoTeam (Mr T) (15cm slG 33 B Sfl) sunk TheMightyHowitze (IJN Haruna)
 boogie66254 (Do-17) shot down TheMightyHowitze (SBD-3)
@@ -100,6 +101,7 @@ Eliminate boogie(Destroyer)!
 Attack [STB3] Shabbles(Lancaster)!
 Somebody, attack TornadoTeam (Mr T)(Tiger II)!
 Eliminate TornadoTeam (Mr T)(Bomber)!
+Attack TheMightyHowitze(J22)!
 Attack TheMightyHowitze(A-10A)!
 Elimniate TornadoTeam (Mr T)(A6M)!
 Attack ACE(F-14A Early)!
@@ -114,6 +116,7 @@ Attack TheMightyHowitze(JAS39A)!
 Somebody, attack [STB3] Shabbles(Fighter)!
 Eliminate TheMightyHowitze(Destroyer)!
 Attack [STB3] Shabbles(SPAA)!
+TheMightyHowitze (Bf 109E) has crashed.
 Somebody, attack TornadoTeam (Mr T)(SPAA)!
 Eliminate boogie(Ju 87)!
 Attack [STB3] Shabbles(Destroyer)!
@@ -127,6 +130,8 @@ Attack [STB3] Shabbles(Jaguar GR1)!
 Somebody, attack [STB3] Shabbles(Hurricane)!
 [STB3] Shabbles (Jaguar GR1) shot down ACE (F-16C)
 Elimniate TornadoTeam (Mr T)(I-15 WR)!
+[STB3] Shabbles (Jaguar GR1) has crashed.
+[STB3] Shabbles (Jaguar GR1) sunk TheMightyHowitze (IJN Akizuki)
 Elimniate TornadoTeam (Mr T)(A6M)!
 Attack TornadoTeam (Mr T)(A6M)!
 Somebody, attack TornadoTeam (Mr T)(Heavy Tank)!
