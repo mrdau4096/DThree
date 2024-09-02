@@ -43,8 +43,6 @@ Leading for landing!
 Returning to the base.
 Reloading!
 Awesome!
-Bravo!
-Well done!
 Excellent!
 You've got a hole in your right wing!
 Repairing! 00:01
@@ -120,6 +118,8 @@ Attack [STB3] Shabbles(Destroyer)!
 Somebody, attack [STB3] Shabbles(Bomber)!
 Attack TheMightyHowitze(Su-27)!
 Eliminate ACE(F-4S)!
+Bravo!
+Well done!
 Attack [STB3] Shabbles(Jaguar GR1)!
 Eliminate TheMightyHowitze(Strv 103-0)!
 Elimniate [STB3] Shabbles(Hurricane)!
