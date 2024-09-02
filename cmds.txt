@@ -7,3 +7,4 @@ wt
 hl
 titanfall
 muted
+todaysMenu
