@@ -67,14 +67,14 @@ hill occupied
 its infuriatingly close
 yeah¬thats what I'm asking
 # An error occurred; ([Errno 2] No such file or directory: 'exct\fishCount')¬-# Dau has been alerted.
-# An error occurred; ([Errno 2] No such file or directory: 'C:\Users\User\Documents\GitHub\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
+# An error occurred; ([Errno 2] No such file or directory: '..\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
 # An error occurred; ([Errno 2] No such file or directory: 'exct\fishCount')¬-# Dau has been alerted.
-# An error occurred; ([Errno 2] No such file or directory: 'C:\Users\User\Documents\GitHub\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
+# An error occurred; ([Errno 2] No such file or directory: '..\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
 # An error occurred; ([Errno 2] No such file or directory: 'exct\fishCount')¬-# Dau has been alerted.
-# An error occurred; ([Errno 2] No such file or directory: 'C:\Users\User\Documents\GitHub\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
+# An error occurred; ([Errno 2] No such file or directory: '..\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
 # An error occurred; ([Errno 2] No such file or directory: 'exct\fishCount')¬-# Dau has been alerted.
-# An error occurred; ([Errno 2] No such file or directory: 'C:\Users\User\Documents\GitHub\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
+# An error occurred; ([Errno 2] No such file or directory: '..\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
 # An error occurred; ([Errno 2] No such file or directory: 'exct\fishCount')¬-# Dau has been alerted.
-# An error occurred; ([Errno 2] No such file or directory: 'C:\Users\User\Documents\GitHub\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
+# An error occurred; ([Errno 2] No such file or directory: '..\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
 # An error occurred; ([Errno 2] No such file or directory: 'exct\fishCount')¬-# Dau has been alerted.
-# An error occurred; ([Errno 2] No such file or directory: 'C:\Users\User\Documents\GitHub\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
+# An error occurred; ([Errno 2] No such file or directory: '..\DThree\phrases\fish.txt') ¬-# Dau has been alerted.
