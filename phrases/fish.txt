@@ -11,8 +11,7 @@ Merlin
 Sturgeon
 Grouper
 Minnow
-Trour
-Eel
+Trout
 Lobster
 Crab
 Hagfish
