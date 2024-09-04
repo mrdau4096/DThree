@@ -26,3 +26,24 @@ Sakana
 Riba
 Kalastaa
 Poisson
+Haddock
+Halibut
+Pollock
+Capelin
+Herring
+Mackerel
+Scallops
+Oyster
+Clams
+Seal
+Flounder
+Smelt
+Great White
+Basking shark
+Tiger shark
+Blue shark
+Mako shark
+Lemon shark
+Blue whale
+Pufferfish
+Clownfish
