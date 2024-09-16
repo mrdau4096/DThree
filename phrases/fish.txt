@@ -9,6 +9,7 @@ Mackrel
 Skipjack
 Merlin
 Sturgeon
+Stur
 Grouper
 Minnow
 Trout
@@ -38,11 +39,20 @@ Seal
 Flounder
 Smelt
 Great White
+Vithaj
 Basking shark
 Tiger shark
+Tiferhaj
 Blue shark
+Blåhaj
 Mako shark
 Lemon shark
 Blue whale
 Pufferfish
 Clownfish
+Lax
+Mackril
+Gädda
+Tumlare
+Valhaj
+Bergtunga
