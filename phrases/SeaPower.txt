@@ -1,0 +1,3 @@
+F-14A VF-102 "Diomondbacks": Hit Track 7005 Tu-95T Bear-D with AIM-51A
+Arkansas CGN-41 SPD: 31kts Crs: 065 degrees Keel: 1767ft Status: Engaging Offensive 44xSM-1MR 7xTGM-109B 8xRGM-84 24xRUR-5 26xMk-46 43100x20cmm 1240x127mm 20xNoisemaker 70xChaff
+E-2C SPD: 255kts Crs 048 degrees Height 7044ft Status: heading to Waypoint 30xChaff
