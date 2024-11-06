@@ -20,3 +20,4 @@ ace
 gitty
 something
 random
+SeaPower
