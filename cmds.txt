@@ -21,3 +21,5 @@ gitty
 something
 random
 SeaPower
+krill
+shrimply
